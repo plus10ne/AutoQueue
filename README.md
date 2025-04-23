@@ -109,7 +109,7 @@ v2.8
 ### Dos - 文档
 
 ### Contact - 联系
-如需联系请发送邮件到yjyworking@163.com
+如需联系请发送邮件到JoyYoungWorkingHK@outlook..com
 
 ## Authors and acknowledgment - 贡献者和感谢
 
